@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/oracle/c3p0-0.9.5.2.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/oracle/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/oracle/ons.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/oracle/oraclepki.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/oracle/orai18n.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/oracle/osdt_cert.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/oracle/osdt_core.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/oracle/simplefan.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/oracle/ucp.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/oracle/xdb.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/connect-api-0.11.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/connect-json-0.11.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/json-20140107.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/kafka-clients-0.11.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/kafka-streams-0.11.0.0 (1).jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/kafka-streams-0.11.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/org-apache-commons-lang.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Capiot - HDFC Project/JARS/JARS/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
